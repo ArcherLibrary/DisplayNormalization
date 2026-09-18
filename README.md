@@ -14,6 +14,8 @@ The substitution terms implemented in these rules are drawn from:
 - [Homosaurus](https://homosaurus.org/), an international linked-data
   vocabulary of LGBTQ+ terms
 
+Additional terms and substitutions are incorporated based on community feedback and consultation. 
+
 For more information display normalization rules, see [Ex Libris's documentation on normalization rules](https://knowledge.exlibrisgroup.com/Primo/Product_Documentation/020Primo_VE/Primo_VE_(English)/050Display_Configuration/Configuring_Normalization_Rules_for_Display_and_Local_Fields) and [local fields](https://knowledge.exlibrisgroup.com/Primo/Product_Documentation/020Primo_VE/Primo_VE_(English)/050Display_Configuration/040Configuring_Local_Display_and_Search_Fields_for_Primo_VE) and [Moran Vardi's Developer Network blog post of norm rule examples](https://developers.exlibrisgroup.com/blog/primo-ve-normalization-rule-examples/)
 
 ## Why use local fields?
