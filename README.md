@@ -24,8 +24,8 @@ These rules write into local fields (07 and 08) rather than normalizing the disp
 
 ## Files
 
-Field 07 (`local_field_07_display.txt` and `local_field_07_search.txt`) drives the subject headings shown on the full bibliographic record, sourced from MARC fields 600, 610, 653, 656, 657, 658, 662, and 880.
+Field 07 (`local_field_07_display` and `local_field_07_search`) drives the subject headings shown on the full bibliographic record, sourced from MARC fields 600, 610, 653, 656, 657, 658, 662, and 880.
 
-Field 08 (`local_field_08_display.txt` and `local_field_08_search.txt`) drives the subject facets shown in the sidebar when browsing search results, sourced from MARC field 650.
+Field 08 (`local_field_08_display` and `local_field_08_search`) drives the subject facets shown in the sidebar when browsing search results, sourced from MARC field 650.
 
 For each pair, the `_display` file builds the heading or facet value shown to the patron, and the `_search` file builds the matching index entry, using the same term substitutions, so what a patron sees is also what they can click or search on successfully.
