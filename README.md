@@ -1,6 +1,6 @@
 # Subject Heading Display Normalization Rules
 
-This repository contains Ex Libris Primo VE normalization rules developed by the [Inclusive Language Team](https://library.uregina.ca/about/inclusivelanguage), a collaborative effort at the University of Regina's Dr. John Archer Library & Archives, alongside the libraries of its federated colleges: Luther College, the First Nations University of Canada, and Campion College. This work is done in consultation with the campus community, and benefits from the input and expertise of individuals and groups both within and external to libraries and archives.
+This repository contains Ex Libris Primo VE/NDE normalization rules developed by the [Inclusive Language Team](https://library.uregina.ca/about/inclusivelanguage), a collaborative effort at the University of Regina's Dr. John Archer Library & Archives, alongside the libraries of its federated colleges: Luther College, the First Nations University of Canada, and Campion College. This work is done in consultation with the campus community, and benefits from the input and expertise of individuals and groups both within and external to libraries and archives.
 
 ## What these rules do
 
