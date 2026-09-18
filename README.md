@@ -12,7 +12,7 @@ The substitution terms implemented in these rules are drawn from:
 - [Manitoba Archival Information Network (MAIN) Indigenous Subject Headings](https://main.lib.umanitoba.ca/indigenous-subject-headings)
 - [Université Laval's RVM revisions for Indigenous vocabulary](https://rvmweb.bibl.ulaval.ca/rvmweb/contenu/contenu.do?chemin=%2fautochtones-revision-du-vocabulaire)
 - [Homosaurus](https://homosaurus.org/), an international linked-data
-  vocabulary of LGBTQ+ terms
+  vocabulary of 2SLGBTQ+ terms
 
 Additional terms and substitutions are incorporated based on community feedback and consultation. 
 
